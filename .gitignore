@@ -1,0 +1,6 @@
+private/
+starter/
+__pycache__/
+*.pyc
+.venv/
+*.log

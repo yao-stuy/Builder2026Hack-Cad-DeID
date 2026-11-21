@@ -1,0 +1,13 @@
+olefile
+pymupdf
+pikepdf
+pyahocorasick
+pillow
+numpy
+py7zr
+rarfile
+ezdxf
+openpyxl
+lxml
+xxhash
+chardet
